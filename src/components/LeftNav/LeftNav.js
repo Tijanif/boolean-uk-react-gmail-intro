@@ -1,3 +1,4 @@
+import './LeftNav.css'
 const LeftNav = () => {
   return (
     <nav className="left-menu">
