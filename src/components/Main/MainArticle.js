@@ -4,6 +4,8 @@ import backArrow from '../../assets/icons/back-arrow.png'
 import rateStarButton from '../../assets/icons/rate-star-button.png'
 import rubbishButton from '../../assets/icons/rubbish-bin-delete-button.png'
 
+import './MainArticle.css'
+
 const MainArticle = () => {
   return (
     <article className="email-content">
